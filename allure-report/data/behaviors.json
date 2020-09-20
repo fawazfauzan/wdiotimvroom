@@ -1,0 +1,1071 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Given User on Selenium Page",
+    "uid" : "927fe87e4ccf04c8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593694594,
+      "stop" : 1600593697548,
+      "duration" : 2954
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "When User fill answer box #1",
+    "uid" : "c642c48948012bc6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593697548,
+      "stop" : 1600593697966,
+      "duration" : 418
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User click check results",
+    "uid" : "e2ecec52a515a107",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593697966,
+      "stop" : 1600593698123,
+      "duration" : 157
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Then Task #1 is \"OK\"",
+    "uid" : "732c81018ae8f274",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593698124,
+      "stop" : 1600593698238,
+      "duration" : 114
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "3c16acd42cf5c338",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593698238,
+      "stop" : 1600593698239,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Given User on Selenium Page",
+    "uid" : "7e4be9cb2128dd19",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593698268,
+      "stop" : 1600593698442,
+      "duration" : 174
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "When User Fill out name section of form to be \"Kilgore Trout\"",
+    "uid" : "b28c31e0ca63d7a9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593698442,
+      "stop" : 1600593698693,
+      "duration" : 251
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User click check results",
+    "uid" : "ee69706aee362ea6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593698693,
+      "stop" : 1600593698838,
+      "duration" : 145
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Then Task #2 is \"OK\"",
+    "uid" : "739aa66797972cf0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593698838,
+      "stop" : 1600593698929,
+      "duration" : 91
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "94a8bfcd960837ab",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593698929,
+      "stop" : 1600593698929,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Given User on Selenium Page",
+    "uid" : "b325ce2d4eef947b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593698947,
+      "stop" : 1600593699136,
+      "duration" : 189
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "When User Set occupation on form to \"Sci-Fi Author\"",
+    "uid" : "1a52e76243e645d4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593699137,
+      "stop" : 1600593699296,
+      "duration" : 159
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User click check results",
+    "uid" : "61fe15a52f63204f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593699296,
+      "stop" : 1600593699438,
+      "duration" : 142
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Then Task #3 is \"OK\"",
+    "uid" : "b4153271eff14483",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593699438,
+      "stop" : 1600593699506,
+      "duration" : 68
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "571cb5e3c1928276",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593699506,
+      "stop" : 1600593699507,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Given User on Selenium Page",
+    "uid" : "9cb50d4b1139d36f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593699522,
+      "stop" : 1600593699644,
+      "duration" : 122
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "When User Count number of blue_boxes on page after form and enter into answer box #4",
+    "uid" : "ea22638e19a02292",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593699644,
+      "stop" : 1600593699882,
+      "duration" : 238
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User click check results",
+    "uid" : "fb254bfddef4d7dc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593699882,
+      "stop" : 1600593700008,
+      "duration" : 126
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Then Task #4 is \"OK\"",
+    "uid" : "525b8193925d1e96",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593700008,
+      "stop" : 1600593700079,
+      "duration" : 71
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "3a853e3b9f5ab710",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593700080,
+      "stop" : 1600593700080,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Given User on Selenium Page",
+    "uid" : "14645b482b5eaad3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593700094,
+      "stop" : 1600593700218,
+      "duration" : 124
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "When User Click link that says \"click me\"",
+    "uid" : "e5243bceb39aa6e8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593700218,
+      "stop" : 1600593700426,
+      "duration" : 208
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User click check results",
+    "uid" : "a695c30be07bdb36",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593700426,
+      "stop" : 1600593700551,
+      "duration" : 125
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Then Task #5 is \"OK\"",
+    "uid" : "9adc31c18141edb4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593700551,
+      "stop" : 1600593700615,
+      "duration" : 64
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "b853aa718d051b86",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593700616,
+      "stop" : 1600593700616,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Given User on Selenium Page",
+    "uid" : "1d0bcf1e2e54a3f3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593700631,
+      "stop" : 1600593700753,
+      "duration" : 122
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "When User Find red box on its page find class applied to it, and enter into answer box #6",
+    "uid" : "9c7e01912e1f5396",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593700753,
+      "stop" : 1600593700985,
+      "duration" : 232
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User click check results",
+    "uid" : "3123c80aec68a608",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593700985,
+      "stop" : 1600593701096,
+      "duration" : 111
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Then Task #6 is \"OK\"",
+    "uid" : "c5c5327506ee4684",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593701097,
+      "stop" : 1600593701157,
+      "duration" : 60
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "326143aa58953d97",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593701157,
+      "stop" : 1600593701158,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Given User on Selenium Page",
+    "uid" : "265eb5bd2045d8d5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593701175,
+      "stop" : 1600593701298,
+      "duration" : 123
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "When User Run JavaScript function as: \"ran_this_js_function()\" from your Selenium script",
+    "uid" : "955092368776f0d9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593701298,
+      "stop" : 1600593701316,
+      "duration" : 18
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User click check results",
+    "uid" : "3f8512dd35bedf81",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593701316,
+      "stop" : 1600593701421,
+      "duration" : 105
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Then Task #7 is \"OK\"",
+    "uid" : "55d6d5293a851340",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593701421,
+      "stop" : 1600593701486,
+      "duration" : 65
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "835439cdc1c8e014",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593701486,
+      "stop" : 1600593701486,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Given User on Selenium Page",
+    "uid" : "7190b8ca712f0c46",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593701499,
+      "stop" : 1600593701617,
+      "duration" : 118
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "When User Run JavaScript function as: \"got_return_from_js_function()\" from your Selenium script, take returned value and place it in answer slot #8",
+    "uid" : "bf543f80c4253a15",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593701617,
+      "stop" : 1600593701833,
+      "duration" : 216
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User click check results",
+    "uid" : "134c9ba43b3295e2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593701834,
+      "stop" : 1600593701930,
+      "duration" : 96
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Then Task #8 is \"OK\"",
+    "uid" : "8094b6c95cfc916b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593701930,
+      "stop" : 1600593701987,
+      "duration" : 57
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "64f4da8d18b75bba",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593701987,
+      "stop" : 1600593701988,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Given User on Selenium Page",
+    "uid" : "2d1c751e8dd145a8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593702005,
+      "stop" : 1600593702125,
+      "duration" : 120
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "When User Mark radio button on form for written book? to Yes",
+    "uid" : "c99c2f5dfb17653d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593702125,
+      "stop" : 1600593702235,
+      "duration" : 110
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User click check results",
+    "uid" : "be50116ef5463c05",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593702235,
+      "stop" : 1600593702366,
+      "duration" : 131
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Then Task #9 is \"OK\"",
+    "uid" : "30ccb4c94bbb369f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593702367,
+      "stop" : 1600593702481,
+      "duration" : 114
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "6a8d4d8f662e80d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593702481,
+      "stop" : 1600593702481,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Given User on Selenium Page",
+    "uid" : "7d3fd82679b21820",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593702496,
+      "stop" : 1600593702624,
+      "duration" : 128
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "When User Get the text from the Red Box and place it in answer slot #10",
+    "uid" : "4497c8256df22d19",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593702624,
+      "stop" : 1600593702859,
+      "duration" : 235
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User click check results",
+    "uid" : "cbcb323794e3a714",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593702859,
+      "stop" : 1600593702982,
+      "duration" : 123
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And Task #10 is \"OK\"",
+    "uid" : "e2a6153fe4b26d41",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593702982,
+      "stop" : 1600593703061,
+      "duration" : 79
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "39f8153fad86d912",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593703061,
+      "stop" : 1600593703062,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Given User on Selenium Page",
+    "uid" : "972db7c6da7245b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593703074,
+      "stop" : 1600593703190,
+      "duration" : 116
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "When User Which box is on top orange or green place correct color in answer slot #11",
+    "uid" : "7224bd11ff61fb3a",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593703190,
+      "stop" : 1600593703443,
+      "duration" : 253
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User click check results",
+    "uid" : "e28cd49ee7e3fc01",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593703443,
+      "stop" : 1600593703546,
+      "duration" : 103
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Then Task #11 is \"OK\"",
+    "uid" : "bb64b3b732fd0f95",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593703546,
+      "stop" : 1600593703604,
+      "duration" : 58
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "70ff16786cdffa36",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593703604,
+      "stop" : 1600593703605,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Given User on Selenium Page",
+    "uid" : "f7a0a46151ec28bb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593703630,
+      "stop" : 1600593703754,
+      "duration" : 124
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "When User set browser width \"850\" and height \"650\"",
+    "uid" : "1adc1d5ff967d98c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593703754,
+      "stop" : 1600593704044,
+      "duration" : 290
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User click check results",
+    "uid" : "af2f9f1f7959699e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593704044,
+      "stop" : 1600593704153,
+      "duration" : 109
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Then Task #12 is \"OK\"",
+    "uid" : "3cd1f322c372bbca",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593704153,
+      "stop" : 1600593704214,
+      "duration" : 61
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "21a8c52066a7873",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593704214,
+      "stop" : 1600593704215,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Given User on Selenium Page",
+    "uid" : "ef41a9c6293a978c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593704225,
+      "stop" : 1600593704473,
+      "duration" : 248
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "When User Type into answer slot 13 yes or no depending on whether item by id of ishere is on the page",
+    "uid" : "811c72b37ef69ee4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593704473,
+      "stop" : 1600593704739,
+      "duration" : 266
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User click check results",
+    "uid" : "346ecc58e8b230f3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593704739,
+      "stop" : 1600593704848,
+      "duration" : 109
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Then Task #13 is \"OK\"",
+    "uid" : "902f8c43b7ee66b0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593704848,
+      "stop" : 1600593704917,
+      "duration" : 69
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "4d9ff1758a4c694b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593704917,
+      "stop" : 1600593704918,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Given User on Selenium Page",
+    "uid" : "c8b11453b0f3e4a1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593704927,
+      "stop" : 1600593705041,
+      "duration" : 114
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "When User Type into answer slot 14 yes or no depending on whether item with id of purplebox is visible",
+    "uid" : "18d7f1698a207e8e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593705041,
+      "stop" : 1600593705291,
+      "duration" : 250
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User click check results",
+    "uid" : "b8a8b08995b5ab86",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593705292,
+      "stop" : 1600593705389,
+      "duration" : 97
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Then Task #14 is \"OK\"",
+    "uid" : "68bad84af3882c91",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593705390,
+      "stop" : 1600593705447,
+      "duration" : 57
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "4b5386acbb5a764f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593705447,
+      "stop" : 1600593705448,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Given User on Selenium Page",
+    "uid" : "424722838524f478",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593705462,
+      "stop" : 1600593705571,
+      "duration" : 109
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "When User Waiting game: click the link with link text of \"click then wait\" a random wait will occur and then a new link will get added with link text of \"click after wait\" - click this new link within 500 ms of it appearing to pass this test",
+    "uid" : "2ed0248dd3c38505",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593705572,
+      "stop" : 1600593707475,
+      "duration" : 1903
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User Click OK on the confirm after completing task 15",
+    "uid" : "b2efaf8242cfae80",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593707475,
+      "stop" : 1600593707486,
+      "duration" : 11
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User click check results",
+    "uid" : "f8708c32d90617db",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593707486,
+      "stop" : 1600593707591,
+      "duration" : 105
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Then Task #15 is \"OK\"",
+    "uid" : "fa9e8c36669a2111",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593707591,
+      "stop" : 1600593707644,
+      "duration" : 53
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And Task #16 is \"OK\"",
+    "uid" : "c8bb7f37bacc900d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593707644,
+      "stop" : 1600593707698,
+      "duration" : 54
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "2d0c001045657112",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593707699,
+      "stop" : 1600593707699,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Given User on Selenium Page",
+    "uid" : "5baf975dc123857",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593707713,
+      "stop" : 1600593707815,
+      "duration" : 102
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "When User Click the submit button on the form",
+    "uid" : "edccbe2a981b487d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593707815,
+      "stop" : 1600593707916,
+      "duration" : 101
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "And User click check results",
+    "uid" : "9e3b8e3582ce6a3e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593707916,
+      "stop" : 1600593708000,
+      "duration" : 84
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Then Task #17 is \"OK\"",
+    "uid" : "454c575077386d83",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593708000,
+      "stop" : 1600593708047,
+      "duration" : 47
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  }, {
+    "name" : "Hook",
+    "uid" : "4913a9faf9d517a7",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1600593708047,
+      "stop" : 1600593708048,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome-85.0.4183.102" ]
+  } ]
+}

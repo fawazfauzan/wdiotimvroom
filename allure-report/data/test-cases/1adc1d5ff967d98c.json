@@ -1,0 +1,116 @@
+{
+  "uid" : "1adc1d5ff967d98c",
+  "name" : "When User set browser width \"850\" and height \"650\"",
+  "fullName" : "Selenium Testing Task: Ensure Taks #12 is OK.When User set browser width \"850\" and height \"650\"",
+  "historyId" : "75823d90cb00c3d00dc4394c055804a0",
+  "time" : {
+    "start" : 1600593703754,
+    "stop" : 1600593704044,
+    "duration" : 290
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/window/rect",
+      "time" : {
+        "start" : 1600593703756,
+        "stop" : 1600593704034,
+        "duration" : 278
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6c79fba8eda96630",
+        "name" : "Request",
+        "source" : "6c79fba8eda96630.json",
+        "type" : "application/json",
+        "size" : 61
+      }, {
+        "uid" : "f1d6a24f3414ea47",
+        "name" : "Response",
+        "source" : "f1d6a24f3414ea47.json",
+        "type" : "application/json",
+        "size" : 55
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/window/rect",
+      "time" : {
+        "start" : 1600593704034,
+        "stop" : 1600593704044,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ada296830cb640",
+        "name" : "Response",
+        "source" : "ada296830cb640.json",
+        "type" : "application/json",
+        "size" : 55
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Selenium Testing Task: Ensure Taks #12 is OK"
+  }, {
+    "name" : "testClass",
+    "value" : "Selenium Testing Task: Ensure Taks #12 is OK"
+  }, {
+    "name" : "testMethod",
+    "value" : "When User set browser width \"850\" and height \"650\""
+  }, {
+    "name" : "package",
+    "value" : "Selenium Testing Task: Ensure Taks #12 is OK"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1adc1d5ff967d98c.json",
+  "parameterValues" : [ "chrome-85.0.4183.102" ]
+}

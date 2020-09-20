@@ -1,0 +1,116 @@
+{
+  "uid" : "525b8193925d1e96",
+  "name" : "Then Task #4 is \"OK\"",
+  "fullName" : "Selenium Testing Task: Ensure Task #4 is OK.Then Task #4 is \"OK\"",
+  "historyId" : "9fce50d2caea1be366fc6bfa21411b0e",
+  "time" : {
+    "start" : 1600593700008,
+    "stop" : 1600593700079,
+    "duration" : 71
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1600593700010,
+        "stop" : 1600593700044,
+        "duration" : 34
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "844530e0e3ec786a",
+        "name" : "Request",
+        "source" : "844530e0e3ec786a.json",
+        "type" : "application/json",
+        "size" : 55
+      }, {
+        "uid" : "a7f2bb675197430f",
+        "name" : "Response",
+        "source" : "a7f2bb675197430f.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/757454a2-b6ab-4e17-a332-0e8682a353f1/text",
+      "time" : {
+        "start" : 1600593700048,
+        "stop" : 1600593700078,
+        "duration" : 30
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b3b5d01b952082dc",
+        "name" : "Response",
+        "source" : "b3b5d01b952082dc.json",
+        "type" : "application/json",
+        "size" : 4
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Selenium Testing Task: Ensure Task #4 is OK"
+  }, {
+    "name" : "testClass",
+    "value" : "Selenium Testing Task: Ensure Task #4 is OK"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then Task #4 is \"OK\""
+  }, {
+    "name" : "package",
+    "value" : "Selenium Testing Task: Ensure Task #4 is OK"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "525b8193925d1e96.json",
+  "parameterValues" : [ "chrome-85.0.4183.102" ]
+}

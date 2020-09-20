@@ -1,0 +1,110 @@
+{
+  "uid" : "b8a8b08995b5ab86",
+  "name" : "And User click check results",
+  "fullName" : "Selenium Testing Task: Ensure Task #14 is OK.And User click check results",
+  "historyId" : "b3dd6ec97c11076cff25d24f834a7325",
+  "time" : {
+    "start" : 1600593705292,
+    "stop" : 1600593705389,
+    "duration" : 97
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1600593705292,
+        "stop" : 1600593705310,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d183a6c37568888a",
+        "name" : "Request",
+        "source" : "d183a6c37568888a.json",
+        "type" : "application/json",
+        "size" : 64
+      }, {
+        "uid" : "7cf0397b834367c5",
+        "name" : "Response",
+        "source" : "7cf0397b834367c5.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/ccc87f7b-a218-4d17-bfde-1d4df687d9fa/click",
+      "time" : {
+        "start" : 1600593705311,
+        "stop" : 1600593705389,
+        "duration" : 78
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Selenium Testing Task: Ensure Task #14 is OK"
+  }, {
+    "name" : "testClass",
+    "value" : "Selenium Testing Task: Ensure Task #14 is OK"
+  }, {
+    "name" : "testMethod",
+    "value" : "And User click check results"
+  }, {
+    "name" : "package",
+    "value" : "Selenium Testing Task: Ensure Task #14 is OK"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b8a8b08995b5ab86.json",
+  "parameterValues" : [ "chrome-85.0.4183.102" ]
+}

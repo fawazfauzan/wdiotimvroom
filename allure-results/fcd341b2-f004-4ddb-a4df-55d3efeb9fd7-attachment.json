@@ -1,0 +1,9 @@
+{
+  "script": "return got_return_from_js_function()",
+  "args": [
+    {
+      "element-6066-11e4-a52e-4f735466cecf": "88113ab2-06f7-4d3d-9c9e-aa4f3cf392d5",
+      "ELEMENT": "88113ab2-06f7-4d3d-9c9e-aa4f3cf392d5"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "uid" : "c99c2f5dfb17653d",
+  "name" : "When User Mark radio button on form for written book? to Yes",
+  "fullName" : "Selenium Testing Task: Ensure Task #9 is OK.When User Mark radio button on form for written book? to Yes",
+  "historyId" : "ed65091f42c23c9100061dae32375f0b",
+  "time" : {
+    "start" : 1600593702125,
+    "stop" : 1600593702235,
+    "duration" : 110
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1600593702126,
+        "stop" : 1600593702152,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9545a4792538da0c",
+        "name" : "Request",
+        "source" : "9545a4792538da0c.json",
+        "type" : "application/json",
+        "size" : 64
+      }, {
+        "uid" : "909d085e6f4b449a",
+        "name" : "Response",
+        "source" : "909d085e6f4b449a.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/d6d7423c-6095-49ad-90ce-013cbdf127e6/click",
+      "time" : {
+        "start" : 1600593702154,
+        "stop" : 1600593702234,
+        "duration" : 80
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Selenium Testing Task: Ensure Task #9 is OK"
+  }, {
+    "name" : "testClass",
+    "value" : "Selenium Testing Task: Ensure Task #9 is OK"
+  }, {
+    "name" : "testMethod",
+    "value" : "When User Mark radio button on form for written book? to Yes"
+  }, {
+    "name" : "package",
+    "value" : "Selenium Testing Task: Ensure Task #9 is OK"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c99c2f5dfb17653d.json",
+  "parameterValues" : [ "chrome-85.0.4183.102" ]
+}

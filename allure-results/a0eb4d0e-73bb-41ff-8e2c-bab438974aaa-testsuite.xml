@@ -1,0 +1,151 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1600593701175' stop='1600593701486'>
+    <name>Selenium Testing Task: Ensure Task #7 is OK</name>
+    <title>Selenium Testing Task: Ensure Task #7 is OK</title>
+    <test-cases>
+        <test-case start='1600593701175' status='passed' stop='1600593701175'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-85.0.4183.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1600593701175' status='passed' stop='1600593701298'>
+            <name>Given User on Selenium Page</name>
+            <title>Given User on Selenium Page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-85.0.4183.102'/>
+            </parameters>
+            <steps>
+                <step start='1600593701176' status='passed' stop='1600593701280'>
+                    <name>POST /session/:sessionId/url</name>
+                    <title>POST /session/:sessionId/url</title>
+                    <attachments>
+                        <attachment title='Request' source='4d3691e8-b202-40f9-8846-968d7db155e1-attachment.json' type='application/json' size='55'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1600593701280' status='passed' stop='1600593701297'>
+                    <name>POST /session/:sessionId/window/maximize</name>
+                    <title>POST /session/:sessionId/window/maximize</title>
+                    <attachments>
+                        <attachment title='Response' source='dd3e898a-8538-475a-8286-cc89cb17f83e-attachment.json' type='application/json' size='58'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1600593701298' status='passed' stop='1600593701316'>
+            <name>When User Run JavaScript function as: "ran_this_js_function()" from your Selenium script</name>
+            <title>When User Run JavaScript function as: "ran_this_js_function()" from your Selenium script</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-85.0.4183.102'/>
+            </parameters>
+            <steps>
+                <step start='1600593701299' status='passed' stop='1600593701315'>
+                    <name>POST /session/:sessionId/execute/sync</name>
+                    <title>POST /session/:sessionId/execute/sync</title>
+                    <attachments>
+                        <attachment title='Request' source='3bb7c8f5-5cca-4a55-8acd-a1126300ced7-attachment.json' type='application/json' size='61'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1600593701316' status='passed' stop='1600593701421'>
+            <name>And User click check results</name>
+            <title>And User click check results</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-85.0.4183.102'/>
+            </parameters>
+            <steps>
+                <step start='1600593701317' status='passed' stop='1600593701335'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='cc9f4e6b-5cef-4a42-807f-a4724437d59f-attachment.json' type='application/json' size='64'/>
+                        <attachment title='Response' source='83d40cf1-b7fc-4600-9591-e47afdb3df1c-attachment.json' type='application/json' size='83'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1600593701337' status='passed' stop='1600593701420'>
+                    <name>POST /session/:sessionId/element/191fd81b-0343-4a79-84bd-a6fbed70b70d/click</name>
+                    <title>POST /session/:sessionId/element/191fd81b-0343-4a79-84bd-a6fbed70b70d/click</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1600593701421' status='passed' stop='1600593701486'>
+            <name>Then Task #7 is "OK"</name>
+            <title>Then Task #7 is "OK"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-85.0.4183.102'/>
+            </parameters>
+            <steps>
+                <step start='1600593701422' status='passed' stop='1600593701455'>
+                    <name>POST /session/:sessionId/element</name>
+                    <title>POST /session/:sessionId/element</title>
+                    <attachments>
+                        <attachment title='Request' source='c460b091-59a7-4e98-aba0-254d4ec727e7-attachment.json' type='application/json' size='55'/>
+                        <attachment title='Response' source='894ba922-af9b-4f44-ace7-b54b1fced1c3-attachment.json' type='application/json' size='83'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1600593701458' status='passed' stop='1600593701485'>
+                    <name>GET /session/:sessionId/element/ef4474cc-86ce-4b6a-8e02-772e96014965/text</name>
+                    <title>GET /session/:sessionId/element/ef4474cc-86ce-4b6a-8e02-772e96014965/text</title>
+                    <attachments>
+                        <attachment title='Response' source='dc2ae2ce-4798-4efb-a427-2c6ead69053c-attachment.json' type='application/json' size='4'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1600593701486' status='passed' stop='1600593701486'>
+            <name>Hook</name>
+            <title>Hook</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-85.0.4183.102'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

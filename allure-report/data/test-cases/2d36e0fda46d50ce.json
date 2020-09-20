@@ -1,0 +1,56 @@
+{
+  "uid" : "2d36e0fda46d50ce",
+  "name" : "Hook",
+  "fullName" : "Selenium Testing Task: Ensure Task #8 is OK.Hook",
+  "historyId" : "35549e2331e0122c2c8cd6342df48885",
+  "time" : {
+    "start" : 1600593701498,
+    "stop" : 1600593701499,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Selenium Testing Task: Ensure Task #8 is OK"
+  }, {
+    "name" : "testClass",
+    "value" : "Selenium Testing Task: Ensure Task #8 is OK"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Selenium Testing Task: Ensure Task #8 is OK"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.102"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2d36e0fda46d50ce.json",
+  "parameterValues" : [ "chrome-85.0.4183.102" ]
+}

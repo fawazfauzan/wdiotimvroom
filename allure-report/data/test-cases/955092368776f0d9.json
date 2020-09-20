@@ -1,0 +1,89 @@
+{
+  "uid" : "955092368776f0d9",
+  "name" : "When User Run JavaScript function as: \"ran_this_js_function()\" from your Selenium script",
+  "fullName" : "Selenium Testing Task: Ensure Task #7 is OK.When User Run JavaScript function as: \"ran_this_js_function()\" from your Selenium script",
+  "historyId" : "270f7d7993cdf81f56d53006f5a678ba",
+  "time" : {
+    "start" : 1600593701298,
+    "stop" : 1600593701316,
+    "duration" : 18
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/execute/sync",
+      "time" : {
+        "start" : 1600593701299,
+        "stop" : 1600593701315,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "85fa1f1625714c57",
+        "name" : "Request",
+        "source" : "85fa1f1625714c57.json",
+        "type" : "application/json",
+        "size" : 61
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Selenium Testing Task: Ensure Task #7 is OK"
+  }, {
+    "name" : "testClass",
+    "value" : "Selenium Testing Task: Ensure Task #7 is OK"
+  }, {
+    "name" : "testMethod",
+    "value" : "When User Run JavaScript function as: \"ran_this_js_function()\" from your Selenium script"
+  }, {
+    "name" : "package",
+    "value" : "Selenium Testing Task: Ensure Task #7 is OK"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "955092368776f0d9.json",
+  "parameterValues" : [ "chrome-85.0.4183.102" ]
+}

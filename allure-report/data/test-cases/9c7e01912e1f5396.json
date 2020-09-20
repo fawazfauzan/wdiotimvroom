@@ -1,0 +1,179 @@
+{
+  "uid" : "9c7e01912e1f5396",
+  "name" : "When User Find red box on its page find class applied to it, and enter into answer box #6",
+  "fullName" : "Selenium Testing Task: Ensure Task #6 is OK.When User Find red box on its page find class applied to it, and enter into answer box #6",
+  "historyId" : "924a84c38f71a4f870e3094e4ed5dc2d",
+  "time" : {
+    "start" : 1600593700753,
+    "stop" : 1600593700985,
+    "duration" : 232
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1600593700754,
+        "stop" : 1600593700780,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "28f4aa4c043b3836",
+        "name" : "Request",
+        "source" : "28f4aa4c043b3836.json",
+        "type" : "application/json",
+        "size" : 57
+      }, {
+        "uid" : "f87013c640dc74a8",
+        "name" : "Response",
+        "source" : "f87013c640dc74a8.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/3712f286-c94a-45d2-9a02-00bab77b39a2/attribute/class",
+      "time" : {
+        "start" : 1600593700783,
+        "stop" : 1600593700806,
+        "duration" : 23
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "71f2259990cf308e",
+        "name" : "Response",
+        "source" : "71f2259990cf308e.json",
+        "type" : "application/json",
+        "size" : 6
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1600593700807,
+        "stop" : 1600593700839,
+        "duration" : 32
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "27086dd7a65e4a84",
+        "name" : "Request",
+        "source" : "27086dd7a65e4a84.json",
+        "type" : "application/json",
+        "size" : 59
+      }, {
+        "uid" : "e2ecd69d92ddb22a",
+        "name" : "Response",
+        "source" : "e2ecd69d92ddb22a.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/59879484-125e-4e8a-a697-fc2a7b122170/clear",
+      "time" : {
+        "start" : 1600593700842,
+        "stop" : 1600593700908,
+        "duration" : 66
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element/59879484-125e-4e8a-a697-fc2a7b122170/value",
+      "time" : {
+        "start" : 1600593700909,
+        "stop" : 1600593700984,
+        "duration" : 75
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "98b8ae5f6a4d1055",
+        "name" : "Request",
+        "source" : "98b8ae5f6a4d1055.json",
+        "type" : "application/json",
+        "size" : 20
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 6
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Selenium Testing Task: Ensure Task #6 is OK"
+  }, {
+    "name" : "testClass",
+    "value" : "Selenium Testing Task: Ensure Task #6 is OK"
+  }, {
+    "name" : "testMethod",
+    "value" : "When User Find red box on its page find class applied to it, and enter into answer box #6"
+  }, {
+    "name" : "package",
+    "value" : "Selenium Testing Task: Ensure Task #6 is OK"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9c7e01912e1f5396.json",
+  "parameterValues" : [ "chrome-85.0.4183.102" ]
+}

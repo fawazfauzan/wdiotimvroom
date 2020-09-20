@@ -1,0 +1,179 @@
+{
+  "uid" : "4497c8256df22d19",
+  "name" : "When User Get the text from the Red Box and place it in answer slot #10",
+  "fullName" : "Selenium Testing Task: Ensure Task #10 is OK.When User Get the text from the Red Box and place it in answer slot #10",
+  "historyId" : "18d1f02307859ed89c6d7415c810f477",
+  "time" : {
+    "start" : 1600593702624,
+    "stop" : 1600593702859,
+    "duration" : 235
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1600593702625,
+        "stop" : 1600593702645,
+        "duration" : 20
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5490d46f24d53978",
+        "name" : "Request",
+        "source" : "5490d46f24d53978.json",
+        "type" : "application/json",
+        "size" : 57
+      }, {
+        "uid" : "a27e5cb92507cb02",
+        "name" : "Response",
+        "source" : "a27e5cb92507cb02.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "GET /session/:sessionId/element/485d522f-763f-4ecf-a327-eed16ffb1f85/text",
+      "time" : {
+        "start" : 1600593702648,
+        "stop" : 1600593702675,
+        "duration" : 27
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "258816eec25d73a8",
+        "name" : "Response",
+        "source" : "258816eec25d73a8.json",
+        "type" : "application/json",
+        "size" : 11
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1600593702675,
+        "stop" : 1600593702701,
+        "duration" : 26
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e308af8cedde4fd2",
+        "name" : "Request",
+        "source" : "e308af8cedde4fd2.json",
+        "type" : "application/json",
+        "size" : 60
+      }, {
+        "uid" : "6cdbeb94c4f9d06",
+        "name" : "Response",
+        "source" : "6cdbeb94c4f9d06.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 2
+    }, {
+      "name" : "POST /session/:sessionId/element/93f0c767-2be4-43dc-ad8f-e97b7ed8d677/clear",
+      "time" : {
+        "start" : 1600593702703,
+        "stop" : 1600593702763,
+        "duration" : 60
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "POST /session/:sessionId/element/93f0c767-2be4-43dc-ad8f-e97b7ed8d677/value",
+      "time" : {
+        "start" : 1600593702765,
+        "stop" : 1600593702859,
+        "duration" : 94
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ece3bde38687b32a",
+        "name" : "Request",
+        "source" : "ece3bde38687b32a.json",
+        "type" : "application/json",
+        "size" : 25
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 6
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Selenium Testing Task: Ensure Task #10 is OK"
+  }, {
+    "name" : "testClass",
+    "value" : "Selenium Testing Task: Ensure Task #10 is OK"
+  }, {
+    "name" : "testMethod",
+    "value" : "When User Get the text from the Red Box and place it in answer slot #10"
+  }, {
+    "name" : "package",
+    "value" : "Selenium Testing Task: Ensure Task #10 is OK"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-85.0.4183.102"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4497c8256df22d19.json",
+  "parameterValues" : [ "chrome-85.0.4183.102" ]
+}
