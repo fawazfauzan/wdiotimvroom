@@ -8,5 +8,6 @@
  - Clone repository on localdisc
  - Open folder on visual studio
  - Run on terminal command `npm install` to install package on local
+ - Run on terminal command `.\node_modules\.bin\selenium-standalone install` to install webdriver
  - Run on terminal command `.\node_modules\.bin\wdio wdio.conf.js` to start automation
   - Run on terminal `npm run report` to open report by allure
