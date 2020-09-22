@@ -4,7 +4,7 @@
 -   JAVA(jdk) installed in the system.
 -   Text Editor/IDE (Optional) installed →Visual Studio Code
 
-### Run fivaa function
+### Run Automation Test
  - Clone repository on localdisc
  - Open folder on visual studio
  - Run on terminal command `npm install` to install package on local
