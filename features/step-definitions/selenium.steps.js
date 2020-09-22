@@ -16,9 +16,7 @@ When(/^User fill answer box #1$/, () =>
 
 When(/^User Fill out name section of form to be "([^"]*)?"$/,(name)=>
 {
-    let d  = Date.now()
-
-    SeleniumPage.fillNameSection(`${name} ${d} `);
+    SeleniumPage.fillNameSection(`${name}`);
 })
 
 When(/^User Set occupation on form to "([^"]*)?"$/, (occupation) => {
