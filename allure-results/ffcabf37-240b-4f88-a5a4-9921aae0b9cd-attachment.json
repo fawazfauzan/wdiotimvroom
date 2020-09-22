@@ -1,5 +1,0 @@
-{
-  "error": "no such element",
-  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[contains(text(),'click after wait')]\"}\n  (Session info: chrome=85.0.4183.102)",
-  "stacktrace": "Backtrace:\n\tOrdinal0 [0x003CD383+3134339]\n\tOrdinal0 [0x002BA171+2007409]\n\tOrdinal0 [0x0015AEE8+569064]\n\tOrdinal0 [0x000EA72F+108335]\n\tOrdinal0 [0x00109DB0+236976]\n\tOrdinal0 [0x000FEC90+191632]\n\tOrdinal0 [0x00108773+231283]\n\tOrdinal0 [0x000FEB0B+191243]\n\tOrdinal0 [0x000E2E77+77431]\n\tOrdinal0 [0x000E3E3E+81470]\n\tOrdinal0 [0x000E3DC9+81353]\n\tOrdinal0 [0x002D0CD9+2100441]\n\tGetHandleVerifier [0x0053B75A+1396954]\n\tGetHandleVerifier [0x0053B3D9+1396057]\n\tGetHandleVerifier [0x00547126+1444518]\n\tGetHandleVerifier [0x0053BCE8+1398376]\n\tOrdinal0 [0x002C7F51+2064209]\n\tOrdinal0 [0x002D22EB+2106091]\n\tOrdinal0 [0x002D2411+2106385]\n\tOrdinal0 [0x002E49C4+2181572]\n\tBaseThreadInitThunk [0x76A46359+25]\n\tRtlGetAppContainerNamedObjectPath [0x77927C24+228]\n\tRtlGetAppContainerNamedObjectPath [0x77927BF4+180]\n\t(No symbol) [0x00000000]\n"
-}

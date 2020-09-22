@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "//h3[contains(text(),'Boxes to check arrangement of')]/following::span[1]"
-}
