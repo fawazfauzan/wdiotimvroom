@@ -16,7 +16,9 @@ When(/^User fill answer box #1$/, () =>
 
 When(/^User Fill out name section of form to be "([^"]*)?"$/,(name)=>
 {
-    SeleniumPage.fillNameSection(name);
+    let d  = Date.now()
+
+    SeleniumPage.fillNameSection(`${name} ${d} `);
 })
 
 When(/^User Set occupation on form to "([^"]*)?"$/, (occupation) => {
@@ -50,7 +52,7 @@ When(/^User Mark radio button on form for written book\? to Yes$/, () =>
 })
 
 When(/^User Run JavaScript function as: "([^"]*)?" from your Selenium script, take returned value and place it in answer slot #8$/, (got) => {
-    let result = browser.execute(`return ${got}`,SeleniumPage.inputAnswer8);
+    let result = browser.execute(`return ${got}`);
     SeleniumPage.fillAnswerBox8(result);
 })
 
